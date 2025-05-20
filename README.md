@@ -10,7 +10,7 @@ __Important Notice:__
 __This are VERY SERIOUSLY NOTICES, PLEASE RESPECTs Telegram's Terms of Usagas and Policies.__  
   
 ## Features:
-- [ ] CLI Interactive Interface]
+- [X] CLI Interactive Interface
 - [ ] Login to Bot Account
 - [ ] Get Bot Account Infomations
 - [ ] Send Messages to Someone
