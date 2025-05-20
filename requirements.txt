@@ -1,0 +1,3 @@
+# requirements.txt
+# Format: package_name**version_number #LICENSE
+# (e.g. numpy==1.0 #BSD 3-Clause)
